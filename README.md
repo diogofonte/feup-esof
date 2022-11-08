@@ -27,3 +27,5 @@ Thank you!
 [Diogo Fonte](https://github.com/diogofonte) <br> [Gabriel Machado Jr.](https://github.com/gabrieltmjr) <br> [Mariana Teixeira](https://github.com/marianalt) <br> [Sofia Moura](https://github.com/sofiamoura) <br> [Tomás Carmo](https://github.com/tomasCarmo)
 
 ---
+
+Project Final Grade: 19
