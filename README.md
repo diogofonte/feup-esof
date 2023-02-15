@@ -1,4 +1,4 @@
-# ESOF - EasyIn Development Report
+# ESOF 2021/2022 - EasyIn
 
 Welcome to the documentation pages of the EasyIn!
 
