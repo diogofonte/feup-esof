@@ -1,4 +1,4 @@
-# EasyIn Development Report
+# ESOF - EasyIn Development Report
 
 Welcome to the documentation pages of the EasyIn!
 
